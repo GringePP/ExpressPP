@@ -1,0 +1,22 @@
+{
+  "name": "expresspp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GringePP/ExpressPP.git"
+  },
+  "author": "GringePP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GringePP/ExpressPP/issues"
+  },
+  "homepage": "https://github.com/GringePP/ExpressPP#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
